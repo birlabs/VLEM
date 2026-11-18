@@ -1,5 +1,5 @@
 ## VLEM
-[CogSci 2025] Official pytorch implementation of ["Towards a Vision-Language Episodic Memory: Large-scale Pretrained Model-Augmented Hippocampal Attractor Dynamics"](https://arxiv.org/abs/2505.04752)
+[CogSci 2025] Official pytorch implementation of ["Towards a Vision-Language Episodic Memory: Large-scale Pretrained Model-Augmented Hippocampal Attractor Dynamics"](https://escholarship.org/uc/item/7hf7t8bb)
 
 ### Abstract
 
@@ -90,6 +90,9 @@ If you find our work useful to your research, please consider citing:
       primaryClass={q-bio.NC},
       url={https://arxiv.org/abs/2505.04752}, 
 }
+```
+```
+Li, C., Zeng, T., Xue, X., & Feng, J. (2025). Towards a Vision-Language Episodic Memory Framework: Large-scale Pretrained Model-Augmented Hippocampal Attractor Dynamics. Proceedings of the Annual Meeting of the Cognitive Science Society, 47. Retrieved from https://escholarship.org/uc/item/7hf7t8bb
 ```
 
 ### Acknowledgement
